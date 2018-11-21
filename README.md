@@ -1,3 +1,11 @@
+
+Important Notice:
+You must install the latest version of Opencv through Opencv or through 
+(PIP INSTALL OPENCV-CONTRIB PYTHON).
+ Its advicable to user -TERMINAL OR COMMAND LINE TO RUN THE PROGRAM.
+
+
+
 # ObjectDetectingOpencv
 How to Locate image and detection
 There are many ways in locating and detecting Images but we would base our first method in Deep Learing and using OpenCV frame work
