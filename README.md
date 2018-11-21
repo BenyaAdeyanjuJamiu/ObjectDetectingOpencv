@@ -1,5 +1,12 @@
 
 Important Notice:
+import numpy as np
+import argparse
+import imutils
+import time
+import cv2
+import os
+
 You must install the latest version of Opencv through Opencv or through 
 (PIP INSTALL OPENCV-CONTRIB PYTHON).
  Its advicable to user -TERMINAL OR COMMAND LINE TO RUN THE PROGRAM.
